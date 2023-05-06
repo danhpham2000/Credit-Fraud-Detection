@@ -8,4 +8,4 @@
 <strong>Phase 4:</strong> Implement machine learning algorithm to predict with the desired of 90% and above(Completed) </br> 
 
 
-<h2>Note: The project is being developed so it is not visible at the moment, expected 2 weeks to complete</h2>
+NOTE: This project is partially completed, the issue raise when the dataset is imbalanced, expected to be fixed soon
